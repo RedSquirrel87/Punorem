@@ -1,4 +1,4 @@
-# Punorem
+# Pending Update Notification Remover (Punorem)
 A very easy and lightweight tool to remove the notification of a pending update from your Nintendo Switch:
 
 ![example](https://i.imgur.com/cB7TEaR.jpg)
